@@ -1,0 +1,13 @@
+{
+  "name": "pi-memory",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Retrieval memory extension for pi: SQLite mirror + hybrid retrieval + active notebook + distillation",
+  "pi": {
+    "extensions": ["./index.ts"]
+  },
+  "scripts": {
+    "check": "echo 'no checks yet'"
+  }
+}
